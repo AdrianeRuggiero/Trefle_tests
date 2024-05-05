@@ -5,6 +5,7 @@ import os
 # Carregar variáveis de ambiente do arquivo .env
 load_dotenv()
 
+
 def get_plants_by_species(species, auth_token):
     url = "https://trefle.io/api/v1/plants"
     params = {
@@ -19,6 +20,7 @@ def get_plants_by_species(species, auth_token):
         print("Error:", response.text)
         return None
 
+
 def print_plant_info(plants):
     for plant in plants:
         print("Common Name:", plant.get("common_name", "N/A"))
@@ -26,8 +28,9 @@ def print_plant_info(plants):
         print("Image URL:", plant.get("image_url", "N/A"))
         print()
 
+
 if __name__ == "__main__":
-    species_name = "Cocos nucifera"  # Nome científico da espécie de interesse
+    species_name = "Cocos nucifera"
     plant_data = get_plants_by_species(species_name, os.getenv("AUTH_TOKEN"))
     if plant_data:
         print_plant_info(plant_data)
