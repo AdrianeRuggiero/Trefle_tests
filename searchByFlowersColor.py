@@ -18,7 +18,8 @@ def get_plants_by_flower_color(flower_color, auth_token):
         auth_token (str): The authentication token for accessing the API.
 
     Returns:
-        dict: A dictionary containing filtered plant data, along with the date and flower color.
+        dict: A dictionary containing filtered plant data,
+        along with the date and flower color.
               Returns None if there's an error.
     """
     url = "https://trefle.io/api/v1/species"
@@ -94,7 +95,10 @@ def create_file_name(folder_name="data", file_prefix="filterByFlowerColor_"):
     """
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
-    return os.path.join(folder_name, f"{file_prefix}{date.today().strftime('%Y-%m-%d')}.json")
+    return os.path.join(
+        folder_name,
+        f"{file_prefix}{date.today().strftime('%Y-%m-%d')}.json"
+    )
 
 
 def fetch_and_save_plant_data(flower_color, auth_token):
