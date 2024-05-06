@@ -1,0 +1,11 @@
+{
+    "date": "2024-05-06",
+    "average_height_cm": 5,
+    "plants": [
+        {
+            "common_name": "Garden nasturtium",
+            "scientific_name": "Tropaeolum majus",
+            "image_url": "https://bs.plantnet.org/image/o/60e91a17ec9ad438f1d9b577c1cecf9ad74f8641"
+        }
+    ]
+}
