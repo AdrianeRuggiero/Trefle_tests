@@ -1,0 +1,126 @@
+{
+    "date": "2024-05-06",
+    "flower_color": "red",
+    "plants": [
+        {
+            "common_name": "Arctic bramble",
+            "scientific_name": "Rubus arcticus",
+            "image_url": "https://bs.plantnet.org/image/o/73507975ac242e85f08b73e35452602d0d21a477",
+            "google_search_link": "https://www.google.com/search?q=Rubus+arcticus"
+        },
+        {
+            "common_name": "Sandboxtree",
+            "scientific_name": "Hura crepitans",
+            "image_url": "https://bs.plantnet.org/image/o/651c610820065ec0a6422466bf00a2c40a8a8208",
+            "google_search_link": "https://www.google.com/search?q=Hura+crepitans"
+        },
+        {
+            "common_name": "Garden nasturtium",
+            "scientific_name": "Tropaeolum majus",
+            "image_url": "https://bs.plantnet.org/image/o/60e91a17ec9ad438f1d9b577c1cecf9ad74f8641",
+            "google_search_link": "https://www.google.com/search?q=Tropaeolum+majus"
+        },
+        {
+            "common_name": "Swamp milkweed",
+            "scientific_name": "Asclepias incarnata",
+            "image_url": "https://bs.plantnet.org/image/o/58fae26476b84d41d4708482a73cae52e45de1c9",
+            "google_search_link": "https://www.google.com/search?q=Asclepias+incarnata"
+        },
+        {
+            "common_name": "Prickly rose",
+            "scientific_name": "Rosa acicularis",
+            "image_url": "https://bs.plantnet.org/image/o/1c83e8eca87f4edeeb98ea96f6308d6d65add266",
+            "google_search_link": "https://www.google.com/search?q=Rosa+acicularis"
+        },
+        {
+            "common_name": "Vine-cactus",
+            "scientific_name": "Fouquieria splendens",
+            "image_url": "https://bs.plantnet.org/image/o/1e5ff376c926e779246dec56d8e4d041735a4069",
+            "google_search_link": "https://www.google.com/search?q=Fouquieria+splendens"
+        },
+        {
+            "common_name": "Woods's rose",
+            "scientific_name": "Rosa woodsii",
+            "image_url": "https://bs.plantnet.org/image/o/7ffebcac7772483c72da7a1918df58a0dba94350",
+            "google_search_link": "https://www.google.com/search?q=Rosa+woodsii"
+        },
+        {
+            "common_name": "Coral honeysuckle",
+            "scientific_name": "Lonicera sempervirens",
+            "image_url": "https://bs.plantnet.org/image/o/c47a46e9a6889a1fd9fffa4b440cd60fb39397b9",
+            "google_search_link": "https://www.google.com/search?q=Lonicera+sempervirens"
+        },
+        {
+            "common_name": "Brazilian-oak",
+            "scientific_name": "Casuarina glauca",
+            "image_url": "https://bs.plantnet.org/image/o/760a182a9b558cbfaedc2c4025e4448b5a4cb732",
+            "google_search_link": "https://www.google.com/search?q=Casuarina+glauca"
+        },
+        {
+            "common_name": "Virginia copperleaf",
+            "scientific_name": "Acalypha virginica",
+            "image_url": "https://bs.plantnet.org/image/o/57a6df450ece27fdef9661a41e3260773f773818",
+            "google_search_link": "https://www.google.com/search?q=Acalypha+virginica"
+        },
+        {
+            "common_name": "Scarlet indian paintbrush",
+            "scientific_name": "Castilleja coccinea",
+            "image_url": "https://bs.plantnet.org/image/o/17c7dae1d38f2a7457fef91c25a87070cbae8928",
+            "google_search_link": "https://www.google.com/search?q=Castilleja+coccinea"
+        },
+        {
+            "common_name": "Swamp rose",
+            "scientific_name": "Rosa palustris",
+            "image_url": "https://bs.plantnet.org/image/o/cf5a3e8ad4580804951877c9e3880eeaaa2a42d8",
+            "google_search_link": "https://www.google.com/search?q=Rosa+palustris"
+        },
+        {
+            "common_name": "Purple locoweed",
+            "scientific_name": "Oxytropis lambertii",
+            "image_url": "https://bs.plantnet.org/image/o/63338ff5f6397352efb0075f10e18b6d45c6cccd",
+            "google_search_link": "https://www.google.com/search?q=Oxytropis+lambertii"
+        },
+        {
+            "common_name": "Swamp-loosestrife",
+            "scientific_name": "Decodon verticillatus",
+            "image_url": "https://bs.plantnet.org/image/o/9ae0487b127cc283ad24e630c2c8ee8d9aaf23d7",
+            "google_search_link": "https://www.google.com/search?q=Decodon+verticillatus"
+        },
+        {
+            "common_name": null,
+            "scientific_name": "Rosa nutkana",
+            "image_url": "https://d2seqvvyy3b8p2.cloudfront.net/257d32d06b49513a947ce9c368e8ce3a.jpg",
+            "google_search_link": "https://www.google.com/search?q=Rosa+nutkana"
+        },
+        {
+            "common_name": "Wavy-leaf paintbrush",
+            "scientific_name": "Castilleja applegatei",
+            "image_url": "https://bs.plantnet.org/image/o/22af8e57ff6062d3b6c3e476c76fcf022a12d3dc",
+            "google_search_link": "https://www.google.com/search?q=Castilleja+applegatei"
+        },
+        {
+            "common_name": "California rose",
+            "scientific_name": "Rosa californica",
+            "image_url": "https://bs.plantnet.org/image/o/43acc13f58bf5bac6bc65375a60b02e507abb5d7",
+            "google_search_link": "https://www.google.com/search?q=Rosa+californica"
+        },
+        {
+            "common_name": "Purpleleaf willowherb",
+            "scientific_name": "Epilobium coloratum",
+            "image_url": "https://bs.plantnet.org/image/o/61da6289a8c987f082ddc32d40a74001ec27eb87",
+            "google_search_link": "https://www.google.com/search?q=Epilobium+coloratum"
+        },
+        {
+            "common_name": "Utah sweet-vetch",
+            "scientific_name": "Hedysarum boreale",
+            "image_url": "https://bs.plantnet.org/image/o/2ff5082b7ff514b563224a26380957e4f4c57b61",
+            "google_search_link": "https://www.google.com/search?q=Hedysarum+boreale"
+        },
+        {
+            "common_name": "Longleaf pitch pine",
+            "scientific_name": "Pinus elliottii",
+            "image_url": "https://bs.plantnet.org/image/o/f1070ece02caed24dfa64ef225735e1cc023d6db",
+            "google_search_link": "https://www.google.com/search?q=Pinus+elliottii"
+        }
+    ]
+}
